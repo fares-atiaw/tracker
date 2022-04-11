@@ -1,6 +1,6 @@
 # tracker_app
 
-A new Flutter project.
+A Simple Flutter project that tracks the user locations and show them on a google map.
 
 ## Getting Started
 
